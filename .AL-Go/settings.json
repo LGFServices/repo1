@@ -6,7 +6,7 @@
   "DeployToSandbox": {
     "EnvironmentName": "Sandbox",
     "continuousDeployment": true
-  }
+  },
   "DeployToSandboxUATasPROD": {
     "EnvironmentName": "SandboxUAT",
     "continuousDeployment": false
