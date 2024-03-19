@@ -10,5 +10,7 @@
   "DeployToSandboxUATasPROD": {
     "EnvironmentName": "SandboxUAT",
     "continuousDeployment": false
-  }
+  },
+  "useCompilerFolder": false,
+  "doNotPublishApps": false
 }
